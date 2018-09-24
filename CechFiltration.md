@@ -1,5 +1,3 @@
-# CechFiltration
-
 # Entrada: Sistema de discos, dimension maxima y parametro maximo.
 # Salida: Archivo .txt con los niveles de la filtracion.
 
